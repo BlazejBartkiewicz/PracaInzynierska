@@ -1,6 +1,6 @@
-## Praca Inżynierska
+# Praca Inżynierska
 
-### "System wykrywający niezrównoważone zużycie energii w biurowcach"
+## "System wykrywający niezrównoważone zużycie energii w biurowcach"
 
 Autor: Błażej Bartkiewicz
 
