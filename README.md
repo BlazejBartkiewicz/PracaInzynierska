@@ -1,5 +1,8 @@
-Praca Inżynierska
+## Praca Inżynierska
 
-Tytuł: System wykrywający niezrównoważone zużycie energii w biurowcach
+### "System wykrywający niezrównoważone zużycie energii w biurowcach"
+
+Autor: Błażej Bartkiewicz
 
 Promotor: Dr. Sinh Hoa Nguyen
+
